@@ -1,0 +1,29 @@
+h1 - Titulo de página
+h2 - Titulo de seção
+h3 - Titulo de artigo
+p - Conteúdo de artigo
+
+a tag <a></a> servem para links
+mailto: e tel: são prefixos para email e telefones
+
+atributos
+target : como o link será aberto
+_blank: abrir link em outr aba
+
+listas
+<ul> ordem dos items é importante
+<ol> ordem dos itens não é importante
+
+
+CSS3
+class e id
+
+
+id: pode ser utilizado apenas uma vez na página
+
+estudar box-model
+margin: espaçamento entre os elementos
+border: circulam o padding e content, podem mudar largura e cor
+padding: espaçamento entre a borda e o conteúdo
+content: conteúdo
+
