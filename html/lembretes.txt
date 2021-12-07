@@ -27,3 +27,20 @@ border: circulam o padding e content, podem mudar largura e cor
 padding: espaçamento entre a borda e o conteúdo
 content: conteúdo
 
+border-radius: arredonda os cantos dos elementos
+
+estilizando listas
+caso você queira que as listas não possuam marcadores utilize
+list-style-type: none; no CSS3
+
+Dimensões e alinamento
+
+Width: largura
+Height: altura
+Max-Width: porcentagem de acordo com o elemento que vem de fora
+Max-height: porcentagem de acordo com o elemento que vem de fora
+margin: espaçamento entre os elementos, ou alinhar elemento automaticamente
+text-align: alinhamento do texto
+
+DICA DE OURO:
+margin: auto na tag <body></body> colocar a página no "centro" de maneira correta
